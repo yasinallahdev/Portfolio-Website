@@ -1,4 +1,8 @@
-#projectList .li {
+#projectList li {
     width: 100%;
+    overflow: auto;
+}
+
+#content.main {
     overflow: auto;
 }
